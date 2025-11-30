@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a senior studying Computer Science at Caltech. Currently, I am a member of the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) at Caltech, working with Professor Adam Wierman. Previously, I worked at [Caltech's Climate Modeling Alliance](https://clima.caltech.edu/).
+I'm a senior studying Computer Science at Caltech. Currently, I am a member of the [Rigorous Systems Research Group](https://rsrg.cms.caltech.edu/) at Caltech, working with Professor Adam Wierman. Previously, I conducted research at [Caltech's Climate Modeling Alliance](https://clima.caltech.edu/).
 
 This fall, I was a Software Engineer Intern at Amazon Web Services on the Outposts Team. I previously interned as a Quantitative Research Intern at JP Morgan. 
 
