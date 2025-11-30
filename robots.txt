@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://apoorvathanvantri.github.io/sitemap.xml
+Sitemap: https://apoorva-thanvantri.github.io/sitemap.xml
